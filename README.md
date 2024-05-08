@@ -1,2 +1,2 @@
-# ChatKnowledge
-ChatKnowledge,a LLM chat-powered knowledge management tool.
+# TypeKnowledge
+TypeKnowledge,a LLM chat-powered knowledge management tool.
